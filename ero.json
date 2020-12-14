@@ -1,21 +1,21 @@
 {
 "Premium" : [{
    "Category" : 0,
-    "Ip" : "tweetdeck.twitter.com.premsg01.darkskyvpn.ph",
+   "Ip" : "188.166.188.217",
     "udp" : "0",
     "Flag" : "sg",
-    "Name" : "Singapore 1"
+    "Name" : "Singapore tcpssl1"
 	},
 	{
    "Category" : 0,
-    "Ip" : "tweetdeck.twitter.com.premsg02.darkskyvpn.ph",
+    "Ip" : "188.166.188.217",
     "udp" : "0",
     "Flag" : "sg",
     "Name" : "Singapore 2"
 	},
 	{
    "Category" : 0,
-    "Ip" : "tweetdeck.twitter.com.premsg03.darkskyvpn.ph",
+    "Ip" : "188.166.188.217",
     "udp" : "0",
     "Flag" : "sg",
     "Name" : "Singapore 3"
@@ -25,47 +25,47 @@
   
 "Vip" : [ {	
 	"Category" : 1,
-    "Ip" : "tweetdeck.twitter.com.vipsg01.darkskyvpn.ph",
+    "Ip" : "178.128.106.82",
     "udp" : "0",
     "Flag" : "sg",
-    "Name" : "Singapore 1"
+    "Name" : "Singapore vip 1"
   },
   {	
 	"Category" : 1,
-    "Ip" : "tweetdeck.twitter.com.vipsg02.darkskyvpn.ph",
+   "Ip" : "188.166.188.217",
     "udp" : "0",
     "Flag" : "sg",
-    "Name" : "Singapore 2"
+    "Name" : "Singapore vip 2"
   },{	
 	"Category" : 1,
-    "Ip" : "tweetdeck.twitter.com.vipsg03.darkskyvpn.ph",
+   "Ip" : "188.166.188.217",
     "udp" : "0",
     "Flag" : "sg",
-    "Name" : "Singapore 3"
+    "Name" : "Singapore vip 3"
   }
   
   ],
   
   "Private" : [ {
   "Category" : 2,
-    "Ip" : "tweetdeck.twitter.com.privsg01.darkskyvpn.ph",
+    "Ip" : "188.166.188.217",
     "udp" : "0",
     "Flag" : "sg",
-    "Name" : "Singapore 1"
+    "Name" : "Singapore private 1"
   },
   {
   "Category" : 2,
-    "Ip" : "tweetdeck.twitter.com.privsg02.darkskyvpn.ph",
+    "Ip" : "188.166.188.217",
     "udp" : "0",
     "Flag" : "sg",
-    "Name" : "Singapore 2"
+    "Name" : "Singapore private 2"
   },
   {
   "Category" : 2,
-    "Ip" : "tweetdeck.twitter.com.privsg03.darkskyvpn.ph",
+   "Ip" : "188.166.188.217",
     "udp" : "0",
     "Flag" : "sg",
-    "Name" : "Singapore 3"
+    "Name" : "Singapore private 3"
   },
   ],
   
@@ -76,7 +76,7 @@
 "Category" : 1
 
 }, {
-"Name" : "Vip",
+"Name" : "VIP",
 "Category" : 2
 }, {
 
@@ -90,59 +90,38 @@
 "Networks":[
 
 {
-"Name":"Globe Promo",
+"Name":"Globe No Promo",
 "Proxy":"0",
-"Port":"8080",
+"Port":"8070",
 "Network":"globe",
-"Payload":"nMDkGOK+nwnAo4Kr7+pD0Al2+MvUqfmVRITuIVu7ul9L4wOF2lZo0GFaFAK3VTzQ",
-"Message":"For Globe/TM Users Only"
+"Payload":"/8cf/+diXo5fqewY6F45w9hkXCkeSbUYmeM5e4p3v/3KCY7zjvCaKrKscoE4EAmp4gatyX+eiB3cwXWRb0Blm/JzcgsOr1ke4YZAjMHi1Ok=",
+"Sni":"mPJ6vohlHXsWOE3/xA6K+qWX4ula/7nm/vSFEDbzbJg=",
+"Message":"fo gtm users only"
 },
 {
-"Name":"Sun Promo",
+"Name":"GTM with Promo",
 "Proxy":"0",
 "Port":"8080",
 "Network":"sun",
-"Payload":"mPJ6vohlHXvse/SV17+vA4hEQjufYA09crLwIbZSCds73r1nI3V8rFAxz2G4qaz2ehvgQDq6WVA=",
-"Message":"For Sun Users Only"
+"Payload":"jA92hPBwNgvNrfO4yH3xq2Vy6vxEPabRM+iBSOY3XR6yD45wvdZ5r/VvYypzBKlgOYpQlggmoHp56+vKkFA2IRfVsxKzizaXts/SDSNn7SCR7TpNv/TU7+0CcewxGyTz1a4tp3TfX116QQYd2WHVb2sEeSzj8JOiZRKVPkfprWTj0TxBfcRSi0xpRPjaoJwgSTI9hL9m4t582WPYjTJj1ezr9yKZQQCM7lXDyj8PRVMxZVLUEVgBQ7X3j0KF/BpDuj+eXiHJvjYceASFwaPvZ7ttkmSgCvY5EcFSe1RstL/7gwUM/BRscvH0bK5JJr/v3x7azFtb83yasoErF0ZrSgpuq4DIQYz41vuWWZizc9EoYV4ZBbTIfx+CiO0Gs8g4g2fKJJ6GyFojxRSC68Lf9HDIjspQt9M++sTeVhJrqNsrv4jUENTHxJIz0Bxj56gXGzYCRMwP5l30tIFid+kmfcOQrXTmudazZ04DO5k+KAizTi4urKmUC4OCQxH5qjOR1afNZ56rcydj5pV8Ttnb0RueWmyreq8gGsWCvEaEZH0pnVCA8rCRmBKBLKRjLjcCUpL0cmTDVBTkSprFNAQeZkeRRfUbY6sGYrhQwBxt7a7Uz2IGGxav6MzjXme4miS/WizWcGbqui2mJ4srSaU/cHVbhDZ4WAKsMUtVPYevrLI=",
+"Sni":"mPJ6vohlHXvEVslN9zDjC8j+FM5vlIV6qUKN/hcZp/DKS9XAUVFzPQ==",
+"Message":"fo gtm users only"
 },
 {
-"Name":"Smart Giga Games",
+"Name":"openvpn ssl",
 "Proxy":"0",
-"Port":"8000",
-"Network":"smart",
-"Payload":"kKSAwEDg4QZDcFwp+9VI4ZhP50UMpes5rM+fali4u5U9MzzAJGz3wA==",
-"Message":"For Smart/TNT/Sun Users Only"
-},
-{
-"Name":"Smart CTS Combo",
-"Proxy":"0",
-"Port":"8000",
-"Network":"smart",
-"Payload":"kKSAwEDg4QZDcFwp+9VI4ZhP50UMpes5rM+fali4u5U9MzzAJGz3wA==",
-"Message":"For Smart Users Only"
-},
-{
-"Name":"Smart Giga Stories 1",
-"Proxy":"0",
-"Port":"8000",
-"Network":"smart",
-"Payload":"yMhy+Gjx39ZZjp2pc1RGh6rYMwlWjuLB2uKsCe5HWd6puIHpNtxAdjyjAII93KbN",
-"Message":"For Smart/TNT/Sun Users Only"
-},
-{
-"Name":"Smart Giga Stories 2",
-"Proxy":"0",
-"Port":"53282",
-"Network":"smart",
-"Payload":"yMhy+Gjx39ZZjp2pc1RGh6rYMwlWjuLB2uKsCe5HWd6puIHpNtxAdjyjAII93KbN",
-"Message":"For Smart/TNT/Sun Users Only"
+"Port":"1194",
+"Network":"sun",
+"Payload":"/8cf/+diXo5fqewY6F45w9hkXCkeSbUYmeM5e4p3v/3KCY7zjvCaKrKscoE4EAmp4gatyX+eiB3cwXWRb0Blm/JzcgsOr1ke4YZAjMHi1Ok=",
+"Sni":"mPJ6vohlHXvEVslN9zDjC8j+FM5vlIV6qUKN/hcZp/DKS9XAUVFzPQ==",
+"Message":"fo gtm users only"
 }
 ],
 
 
 "Version": [
 {
-"Name":"1.0"
+"Name":"1.2"
 }
 ]
 
