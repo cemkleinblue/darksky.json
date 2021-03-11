@@ -93,6 +93,6 @@
     "Name" : "GOMO noload 1"
   } ],
   "Changelogs" : "What's New? new ui for v2ray application.",
-  "UpdateUrl": "https://batangas-vpn.tk/sec.json",
+  "UpdateUrl": "https://raw.github.com/cemkleinblue/darksky.json/main/darkskyv2rayreloaded2.json",
   "Version" : 1
 }
