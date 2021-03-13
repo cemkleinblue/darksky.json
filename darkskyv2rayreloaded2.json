@@ -10,56 +10,56 @@
     "Category" : 0,
     "DomainOrIP" : "v2rayvmessprmsg01.darksky-vpn.cf",
     "Flag" : "sg",
-    "Name" : "Premium SG 1",
+    "Name" : "Premium Singapore 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
     "DomainOrIP" : "v2rayvmessprmsg02.darksky-vpn.cf",
     "Flag" : "sg",
-    "Name" : "Premium SG 2",
+    "Name" : "Premium Singapore 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
     "DomainOrIP" : "v2rayvmessprmsg02.darksky-vpn.cf",
     "Flag" : "sg",
-    "Name" : "Premium SG 3",
+    "Name" : "Premium Singapore 3",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
     "DomainOrIP" : "v2rayvmessprmus01.darksky-vpn.cf",
     "Flag" : "us",
-    "Name" : "Premium US 1",
+    "Name" : "Premium United State 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
     "DomainOrIP" : "v2rayvmessvipsg01.darksky-vpn.cf",
     "Flag" : "sg",
-    "Name" : "VIP SG 1",
+    "Name" : "VIP Singapore 1",
     "AlterID" : "0",
     "Port" : "443"
   },{
     "Category" : 1,
     "DomainOrIP" : "v2rayvmessvipsg02.darksky-vpn.cf",
     "Flag" : "sg",
-    "Name" : "VIP SG 2",
+    "Name" : "VIP Singapore 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
     "DomainOrIP" : "v2rayvmessprvsg01.darksky-vpn.cf",
     "Flag" : "sg",
-    "Name" : "Private SG 1",
+    "Name" : "Private Singapore 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
     "DomainOrIP" : "v2rayvmessprvsg02.darksky-vpn.cf",
     "Flag" : "sg",
-    "Name" : "Premium SG 2",
+    "Name" : "Premium Singapore 2",
     "AlterID" : "0",
     "Port" : "443"
   } ],
