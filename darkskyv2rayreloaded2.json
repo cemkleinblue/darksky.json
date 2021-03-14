@@ -8,58 +8,114 @@
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "v2rayvmessprmsg01.darksky-vpn.cf",
+    "DomainOrIP" : "vmessprmsg01.darksky-vpn.club",
     "Flag" : "sg",
     "Name" : "Premium Singapore 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "v2rayvmessprmsg02.darksky-vpn.cf",
+    "DomainOrIP" : "vmessprmsg02.darksky-vpn.club",
     "Flag" : "sg",
     "Name" : "Premium Singapore 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "v2rayvmessprmsg02.darksky-vpn.cf",
+    "DomainOrIP" : "vmessprmsg03.darksky-vpn.club",
     "Flag" : "sg",
     "Name" : "Premium Singapore 3",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "v2rayvmessprmus01.darksky-vpn.cf",
+    "DomainOrIP" : "vmessprmsg04.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "Premium Singapore 4",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "vmessprmsg05.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "Premium Singapore 5",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "vmessprmus01.darksky-vpn.club",
     "Flag" : "us",
     "Name" : "Premium United State 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "v2rayvmessvipsg01.darksky-vpn.cf",
+    "DomainOrIP" : "vmessvipsg01.darksky-vpn.club",
     "Flag" : "sg",
     "Name" : "VIP Singapore 1",
     "AlterID" : "0",
     "Port" : "443"
   },{
     "Category" : 1,
-    "DomainOrIP" : "v2rayvmessvipsg02.darksky-vpn.cf",
+    "DomainOrIP" : "vmessvipsg02.darksky-vpn.club",
     "Flag" : "sg",
     "Name" : "VIP Singapore 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
+    "Category" : 1,
+    "DomainOrIP" : "vmessvipsg03.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "VIP Singapore 3",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "vmessvipsg04.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "VIP Singapore 4",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "vmessvipsg05.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "VIP Singapore 5",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
     "Category" : 2,
-    "DomainOrIP" : "v2rayvmessprvsg01.darksky-vpn.cf",
+    "DomainOrIP" : "vmessprvsg01.darksky-vpn.club",
     "Flag" : "sg",
     "Name" : "Private Singapore 1",
     "AlterID" : "0",
     "Port" : "443"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "v2rayvmessprvsg02.darksky-vpn.cf",
+    "DomainOrIP" : "vmessprvsg02.darksky-vpn.club",
     "Flag" : "sg",
     "Name" : "Premium Singapore 2",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "vmessprvsg03.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "Private Singapore 3",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "vmessprvsg04.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "Private Singapore 4",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "vmessprvsg05.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "Private Singapore 5",
     "AlterID" : "0",
     "Port" : "443"
   } ],
@@ -83,6 +139,21 @@
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 4"
+  },{
+    "Host" : "zeus.proxylitegtm.xyz",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 5"
+  },{
+    "Host" : "snigtm.darksky-vpn.club",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 6"
+  },{
+    "Host" : "104.17.64.0",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 7"
   }, {
     "Host" : "www.onetrust.com",
     "Icon" : "smart",
@@ -94,10 +165,20 @@
     "Network" : "smart",
     "Name" : "STS noload 2"
   }, {
-    "Host" : "sts.noload.stan.izone.apn1.ml",
+    "Host" : "app-apac.onetrust.com",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "STS noload 3"
+  }, {
+    "Host" : "sts.noload.stan.izone.apn1.ml",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 4"
+  }, {
+    "Host" : "snists.darksky-vpn.club",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 5"
   }, {
     "Host" : "api.gomo.ph",
     "Icon" : "gomo",
@@ -119,13 +200,23 @@
     "Network" : "gomo",
     "Name" : "GOMO noload 4"
   }, {
+    "Host" : "snigomo.darksky-vpn.club",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 5"
+  }, {
     "Host" : "www.dito.ph",
     "Icon" : "dito",
     "Network" : "dito",
     "Name" : "DITO noload 1"
+  }, {
+    "Host" : "snidito.darksky-vpn.club",
+    "Icon" : "dito",
+    "Network" : "dito",
+    "Name" : "DITO noload 2"
   } ],
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\nDarkSky Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
-  "Notice" : "Welcome DarkSky V2Ray Reloaded\n\n1. Online Update on menu\n2. Select Location\n3. Select Network/Payload\n4. Enter Username and Password\n5. Click CONNECT",
+  "Notice" : "Welcome DarkSky V2Ray Reloaded\n\n1. Online Update on swipe right drawer menu\n2. Select Location\n3. Select Network/Payload\n4. Enter Username and Password\n5. Click CONNECT",
   "UpdateUrl": "https://raw.github.com/cemkleinblue/darksky.json/main/darkskyv2rayreloaded2.json",
   "Version" : 2
 }
