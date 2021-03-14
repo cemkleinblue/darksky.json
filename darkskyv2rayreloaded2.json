@@ -94,7 +94,7 @@
     "Category" : 2,
     "DomainOrIP" : "vmessprvsg02.darksky-vpn.club",
     "Flag" : "sg",
-    "Name" : "Premium Singapore 2",
+    "Name" : "Private Singapore 2",
     "AlterID" : "0",
     "Port" : "443"
   }, {
@@ -216,7 +216,7 @@
     "Name" : "DITO noload 2"
   } ],
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\nDarkSky Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
-  "Notice" : "Welcome DarkSky V2Ray Reloaded\n\n1. Online Update on swipe right drawer menu\n2. Select Location\n3. Select Network/Payload\n4. Enter Username and Password\n5. Click CONNECT",
+  "Notice" : "Welcome DarkSky V2Ray Reloaded\n\n1. Online Update on swipe right drawer menu\n2. Enter Username and Password in account\n3. Select Location\n4. Select Network/Payload\n5. Click CONNECT",
   "UpdateUrl": "https://raw.github.com/cemkleinblue/darksky.json/main/darkskyv2rayreloaded2.json",
   "Version" : 2
 }
