@@ -84,6 +84,13 @@
     "AlterID" : "0",
     "Port" : "443"
   }, {
+    "Category" : 1,
+    "DomainOrIP" : "vmessvippl01.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "VIP Poland 1",
+    "AlterID" : "0",
+    "Port" : "443"
+  }, {
     "Category" : 2,
     "DomainOrIP" : "vmessprvsg01.darksky-vpn.club",
     "Flag" : "sg",
