@@ -3,8 +3,15 @@
     "Category" : 0,
     "DomainOrIP" : "v2rayvmessprmsg01.darksky-vpn.me",
     "Flag" : "sg",
-    "Name" : "Backup Server for All",
+    "Name" : "Backup Server 1",
     "AlterID" : "0",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "alterid64vmess.darksky-vpn.club",
+    "Flag" : "sg",
+    "Name" : "Backup Server 2",
+    "AlterID" : "64",
     "Port" : "443"
   }, {
     "Category" : 0,
@@ -152,7 +159,7 @@
     "Network" : "globe",
     "Name" : "GTM noload 5"
   },{
-    "Host" : "snigtm.darksky-vpn.club",
+    "Host" : "snigtm.darksky-vpn.cf",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 6"
@@ -182,17 +189,17 @@
     "Network" : "smart",
     "Name" : "STS noload 4"
   }, {
-    "Host" : "snists.darksky-vpn.club",
+    "Host" : "snists.darksky-vpn.cf",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "STS noload 5"
   }, {
-    "Host" : "api.gomo.ph",
+    "Host" : "www.gomo.ph",
     "Icon" : "gomo",
     "Network" : "gomo",
     "Name" : "GOMO noload 1"
   }, {
-    "Host" : "www.gomo.ph",
+    "Host" : "api.gomo.ph",
     "Icon" : "gomo",
     "Network" : "gomo",
     "Name" : "GOMO noload 2"
@@ -207,7 +214,7 @@
     "Network" : "gomo",
     "Name" : "GOMO noload 4"
   }, {
-    "Host" : "snigomo.darksky-vpn.club",
+    "Host" : "snigomo.darksky-vpn.cf",
     "Icon" : "gomo",
     "Network" : "gomo",
     "Name" : "GOMO noload 5"
@@ -217,7 +224,7 @@
     "Network" : "dito",
     "Name" : "DITO noload 1"
   }, {
-    "Host" : "snidito.darksky-vpn.club",
+    "Host" : "snidito.darksky-vpn.cf",
     "Icon" : "dito",
     "Network" : "dito",
     "Name" : "DITO noload 2"
@@ -225,5 +232,5 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\nDarkSky Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Welcome DarkSky V2Ray Reloaded\n\n1. Online Update on swipe right drawer menu\n2. Enter Username and Password in account\n3. Select Location\n4. Select Network/Payload\n5. Click CONNECT",
   "UpdateUrl": "https://raw.github.com/cemkleinblue/darksky.json/main/darkskyv2rayreloaded2.json",
-  "Version" : 2
+  "Version" : 3
 }
