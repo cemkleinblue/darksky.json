@@ -134,40 +134,55 @@
     "Port" : "443"
   } ],
   "Payloads" : [ {
-    "Host" : "shop.globe.com.ph",
+    "Host" : "snigtm01.darksky-vpn.cf",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 1"
   },{
-    "Host" : "bills.globe.com.ph",
+    "Host" : "snigtm02.darksky-vpn.cf",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 2"
   },{
-    "Host" : "freenet.globe.com.ph.cdn.cloudflare.net",
+    "Host" : "snigtm03.darksky-vpn.cf",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 3"
   },{
-    "Host" : "www.globe.com.ph.cdn.cloudflare.net",
+    "Host" : "snigtm04.darksky-vpn.cf",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 4"
   },{
-    "Host" : "zeus.proxylitegtm.xyz",
+    "Host" : "snigtm05.darksky-vpn.cf",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 5"
   },{
-    "Host" : "snigtm.darksky-vpn.cf",
+    "Host" : "snigtm06.darksky-vpn.cf",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 6"
   },{
-    "Host" : "104.17.64.0",
+    "Host" : "snigtm07.darksky-vpn.cf",
     "Icon" : "globe",
     "Network" : "globe",
     "Name" : "GTM noload 7"
+  },{
+    "Host" : "snigtm.darksky-vpn.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 8"
+  },{
+    "Host" : "zeus.proxylitegtm.xyz",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 9"
+  },{
+    "Host" : "::ffff:6811:4002",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 10"
   }, {
     "Host" : "www.onetrust.com",
     "Icon" : "smart",
@@ -232,5 +247,5 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\nDarkSky Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Welcome DarkSky V2Ray Reloaded\n\n1. Online Update on swipe right drawer menu\n2. Enter Username and Password in account\n3. Select Location\n4. Select Network/Payload\n5. Click CONNECT",
   "UpdateUrl": "https://raw.github.com/cemkleinblue/darksky.json/main/darkskyv2rayreloaded2.json",
-  "Version" : 4
+  "Version" : 5
 }
