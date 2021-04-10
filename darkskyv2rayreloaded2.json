@@ -184,22 +184,22 @@
     "Network" : "globe",
     "Name" : "GTM noload 10"
   }, {
-    "Host" : "www.onetrust.com",
+    "Host" : "snists.darksky-vpn.cf",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "STS noload 1"
   }, {
-    "Host" : "cdn-apac.onetrust.com",
+    "Host" : "cpant.xyz",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "STS noload 2"
   }, {
-    "Host" : "app-apac.onetrust.com",
+    "Host" : "mernattitle.info",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "STS noload 3"
   }, {
-    "Host" : "sts.noload.stan.izone.apn1.ml",
+    "Host" : "cap.cpant.xyz",
     "Icon" : "smart",
     "Network" : "smart",
     "Name" : "STS noload 4"
@@ -209,30 +209,45 @@
     "Network" : "smart",
     "Name" : "STS noload 5"
   }, {
-    "Host" : "www.gomo.ph",
+    "Host" : "snigomo.darksky-vpn.cf",
     "Icon" : "gomo",
     "Network" : "gomo",
     "Name" : "GOMO noload 1"
   }, {
-    "Host" : "api.gomo.ph",
+    "Host" : "gomo.ph",
     "Icon" : "gomo",
     "Network" : "gomo",
     "Name" : "GOMO noload 2"
   }, {
-    "Host" : "www.rivalri.com",
+    "Host" : "www.gomo.ph",
     "Icon" : "gomo",
     "Network" : "gomo",
     "Name" : "GOMO noload 3"
   }, {
-    "Host" : "www.betsouth21.com",
+    "Host" : "api.gomo.ph",
     "Icon" : "gomo",
     "Network" : "gomo",
     "Name" : "GOMO noload 4"
   }, {
-    "Host" : "snigomo.darksky-vpn.cf",
+    "Host" : "www.gomo.ph.cdn.cloudflare.net",
     "Icon" : "gomo",
     "Network" : "gomo",
     "Name" : "GOMO noload 5"
+  }, {
+    "Host" : "api.gomo.ph.cdn.cloudflare.net",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 6"
+  }, {
+    "Host" : "www.rivalri.com",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 7"
+  }, {
+    "Host" : "www.betsouth21.com",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 8"
   }, {
     "Host" : "www.dito.ph",
     "Icon" : "dito",
@@ -247,5 +262,5 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\nDarkSky Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Welcome DarkSky V2Ray Reloaded\n\n1. Online Update on swipe right drawer menu\n2. Enter Username and Password in account\n3. Select Location\n4. Select Network/Payload\n5. Click CONNECT",
   "UpdateUrl": "https://raw.github.com/cemkleinblue/darksky.json/main/darkskyv2rayreloaded2.json",
-  "Version" : 5
+  "Version" : 6
 }
