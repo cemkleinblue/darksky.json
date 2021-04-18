@@ -17,7 +17,7 @@
     "Category" : 0,
     "DomainOrIP" : "vmessprmsg01.darksky-vpn.club",
     "Flag" : "sg",
-    "Name" : "Premium Singapore 1",
+    "Name" : "Premium Singapore 1 STS",
     "AlterID" : "0",
     "Port" : "443"
   }, {
@@ -59,7 +59,7 @@
     "Category" : 1,
     "DomainOrIP" : "vmessvipsg01.darksky-vpn.club",
     "Flag" : "sg",
-    "Name" : "VIP Singapore 1",
+    "Name" : "VIP Singapore 1 STS",
     "AlterID" : "0",
     "Port" : "443"
   },{
@@ -101,7 +101,7 @@
     "Category" : 2,
     "DomainOrIP" : "vmessprvsg01.darksky-vpn.club",
     "Flag" : "sg",
-    "Name" : "Private Singapore 1",
+    "Name" : "Private Singapore 1 STS",
     "AlterID" : "0",
     "Port" : "443"
   }, {
@@ -134,81 +134,6 @@
     "Port" : "443"
   } ],
   "Payloads" : [ {
-    "Host" : "snigtm01.darksky-vpn.cf",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 1"
-  },{
-    "Host" : "snigtm02.darksky-vpn.cf",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 2"
-  },{
-    "Host" : "snigtm03.darksky-vpn.cf",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 3"
-  },{
-    "Host" : "snigtm04.darksky-vpn.cf",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 4"
-  },{
-    "Host" : "snigtm05.darksky-vpn.cf",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 5"
-  },{
-    "Host" : "snigtm06.darksky-vpn.cf",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 6"
-  },{
-    "Host" : "snigtm07.darksky-vpn.cf",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 7"
-  },{
-    "Host" : "snigtm.darksky-vpn.cf",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 8"
-  },{
-    "Host" : "zeus.proxylitegtm.xyz",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 9"
-  },{
-    "Host" : "::ffff:6811:4002",
-    "Icon" : "globe",
-    "Network" : "globe",
-    "Name" : "GTM noload 10"
-  }, {
-    "Host" : "snists.darksky-vpn.cf",
-    "Icon" : "smart",
-    "Network" : "smart",
-    "Name" : "STS noload 1"
-  }, {
-    "Host" : "cpant.xyz",
-    "Icon" : "smart",
-    "Network" : "smart",
-    "Name" : "STS noload 2"
-  }, {
-    "Host" : "mernattitle.info",
-    "Icon" : "smart",
-    "Network" : "smart",
-    "Name" : "STS noload 3"
-  }, {
-    "Host" : "cap.cpant.xyz",
-    "Icon" : "smart",
-    "Network" : "smart",
-    "Name" : "STS noload 4"
-  }, {
-    "Host" : "snists.darksky-vpn.cf",
-    "Icon" : "smart",
-    "Network" : "smart",
-    "Name" : "STS noload 5"
-  }, {
     "Host" : "snigomo.darksky-vpn.cf",
     "Icon" : "gomo",
     "Network" : "gomo",
@@ -249,6 +174,86 @@
     "Network" : "gomo",
     "Name" : "GOMO noload 8"
   }, {
+    "Host" : "www.smart.com.ph",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload NEW"
+  }, {
+    "Host" : "snists.darksky-vpn.cf",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 1"
+  }, {
+    "Host" : "cpant.xyz",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 2"
+  }, {
+    "Host" : "mernattitle.info",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 3"
+  }, {
+    "Host" : "cap.cpant.xyz",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 4"
+  }, {
+    "Host" : "snists.darksky-vpn.cf",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 5"
+  }, {
+    "Host" : "snigtm01.darksky-vpn.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 1"
+  }, {
+    "Host" : "snigtm02.darksky-vpn.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 2"
+  }, {
+    "Host" : "snigtm03.darksky-vpn.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 3"
+  }, {
+    "Host" : "snigtm04.darksky-vpn.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 4"
+  }, {
+    "Host" : "snigtm05.darksky-vpn.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 5"
+  }, {
+    "Host" : "snigtm06.darksky-vpn.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 6"
+  }, {
+    "Host" : "snigtm07.darksky-vpn.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 7"
+  }, {
+    "Host" : "snigtm.darksky-vpn.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 8"
+  }, {
+    "Host" : "zeus.proxylitegtm.xyz",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 9"
+  }, {
+    "Host" : "::ffff:6811:4002",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 10"
+  }, {
     "Host" : "www.dito.ph",
     "Icon" : "dito",
     "Network" : "dito",
@@ -262,5 +267,5 @@
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\nDarkSky Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Welcome DarkSky V2Ray Reloaded\n\n1. Online Update on swipe right drawer menu\n2. Enter Username and Password in account\n3. Select Location\n4. Select Network/Payload\n5. Click CONNECT",
   "UpdateUrl": "https://raw.github.com/cemkleinblue/darksky.json/main/darkskyv2rayreloaded2.json",
-  "Version" : 6
+  "Version" : 7
 }
